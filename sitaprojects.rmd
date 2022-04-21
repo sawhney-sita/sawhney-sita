@@ -1,0 +1,28 @@
+---
+title: "Sita's Projects"
+output: html_document
+---
+
+
+Projects sita has worked on:
+
+In  college 
+
+```{r}
+
+```
+
+
+At work 
+
+```{r }
+
+```
+
+
+
+```{r}
+
+```
+
+
